@@ -29,18 +29,18 @@ For example valid Primary and Foreign key values.
 
 #### Part B: 
 ###### Queries	: 									
-* Q1. List the people who has booked room number 101 on 17th November 2016. <br />
-* Q2. Give the booking date and the number of nights for guest 1540.<br />
-* Q3. List the arrival time and the first and last names for all guests due to arrive on 2016-11-05, order the output by time of arrival.<br />
-* Q4. Give the daily rate that should be paid for bookings with ids 5152, 5165, 5154 and 5295. Include booking id, room type, number of occupants and the amount.<br />
-* Q5. Find who is staying in room 101 on 2016-12-03, include first name, last name and address.<br />
-* Q6. For guests 1185 and 1270 show the number of bookings made and the total number of nights. <br />
-* Q7. Show the total amount payable by guest Ruth Cadbury for her room bookings. <br />
-* Q8. Calculate the total bill for booking 5346 including extras.<br />
-* Q9. For every guest who has the word “Edinburgh” in their address show the total number of nights booked. <br />
-* Q10. For each day of the week beginning 2016-11-25 show the number of bookings starting that day.<br />
-* Q11. Show the number of guests in the hotel on the night of 2016-11-21. Include all occupants who checked in that day but not those who checked out.<br />
-* Q12. List the rooms that are free on the day 25th Nov 2016.<br />
+Q1. List the people who has booked room number 101 on 17th November 2016. <br />
+Q2. Give the booking date and the number of nights for guest 1540.<br />
+Q3. List the arrival time and the first and last names for all guests due to arrive on 2016-11-05, order the output by time of arrival.<br />
+Q4. Give the daily rate that should be paid for bookings with ids 5152, 5165, 5154 and 5295. Include booking id, room type, number of occupants and the amount.<br />
+Q5. Find who is staying in room 101 on 2016-12-03, include first name, last name and address.<br />
+Q6. For guests 1185 and 1270 show the number of bookings made and the total number of nights. <br />
+Q7. Show the total amount payable by guest Ruth Cadbury for her room bookings. <br />
+Q8. Calculate the total bill for booking 5346 including extras.<br />
+Q9. For every guest who has the word “Edinburgh” in their address show the total number of nights booked. <br />
+Q10. For each day of the week beginning 2016-11-25 show the number of bookings starting that day.<br />
+Q11. Show the number of guests in the hotel on the night of 2016-11-21. Include all occupants who checked in that day but not those who checked out.<br />
+Q12. List the rooms that are free on the day 25th Nov 2016.<br />
 
 #### Part C: 
 ###### Create and store views for the following:
